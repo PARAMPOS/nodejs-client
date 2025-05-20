@@ -1,0 +1,19 @@
+{
+  "name": "param_nodejs_sdk",
+  "version": "1.0.0",
+  "description": "Param Nodejs SDK ",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Param Tech",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.21.0",
+    "iconv-lite": "^0.6.3",
+    "joi": "^17.13.3",
+    "soap": "^1.1.5"
+  }
+}
